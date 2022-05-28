@@ -1,6 +1,4 @@
-begin
- Lol
-end
+
 require 'telegram/bot'
 
 def show_params
