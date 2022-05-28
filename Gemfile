@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem install telegram-bot-ruby
+gem 'telegram-bot-ruby'
