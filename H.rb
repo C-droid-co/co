@@ -1,5 +1,4 @@
 
-require_relative '.rb'
 
 def show_params
   puts "[INFO] Params:"
