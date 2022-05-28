@@ -1,5 +1,5 @@
 begin
-Lol
+ Lol
 end
 require 'telegram/bot'
 
